@@ -1,0 +1,6 @@
+,LoanID,StringID,Product,CustomerGender,Location,Region,TotalPrice,StartDate,Deposit,DailyRate,TotalDaysYr,AmtPaid36,AmtPaid60,AmtPaid360,LoanStatus
+0,1,LoanID_1,Product B,Female,Location 3,Region 2,17600.0,04/07/2018,2200,45,365,3221,4166,14621,Active
+1,2,LoanID_2,Product D,Female,Location 6,Region 6,,02/01/2019,2200,45,365,3161,4096,16041,Active
+2,3,LoanID_3,Product B,Male,Location 8,Region 3,16600.0,08/12/2016,1000,45,365,2260,3205,16340,
+3,4,LoanID_4,Product A,Male,Location 26,Region 2,17600.0,,2200,45,365,3141,4166,16321,Active
+4,5,LoanID_5,Product B,Female,Location 34,Region 3,21250.0,28/10/2017,2200,55,365,3570,4745,14720,Active
